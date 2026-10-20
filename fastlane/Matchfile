@@ -7,6 +7,4 @@ storage_mode("git")
 
 type("appstore")
 
-renew_expired_certs(true)
-
 # The docs are available on https://docs.fastlane.tools/actions/match
